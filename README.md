@@ -9,6 +9,7 @@
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|4 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./solutions/217.%20Contains%20Duplicate.cpp)|68 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|16 ms|
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|72 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|52 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./solutions/412.%20Fizz%20Buzz.cpp)|8 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[C++](./solutions/1395.%20Count%20Number%20of%20Teams.cpp)|172 ms|
