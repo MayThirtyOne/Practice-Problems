@@ -24,6 +24,7 @@
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|52 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./solutions/412.%20Fizz%20Buzz.cpp)|8 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|4 ms|
+|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|240 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|36 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[C++](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)|0 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
