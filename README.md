@@ -26,6 +26,7 @@
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|4 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|36 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
+|1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.cpp)|24 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[C++](./solutions/1395.%20Count%20Number%20of%20Teams.cpp)|172 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./solutions/1512.%20Number%20of%20Good%20Pairs.cpp)|4 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[C++](./solutions/1528.%20Shuffle%20String.cpp)|40 ms|
