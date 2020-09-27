@@ -36,3 +36,4 @@
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[C++](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.cpp)|0 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./solutions/1512.%20Number%20of%20Good%20Pairs.cpp)|4 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[C++](./solutions/1528.%20Shuffle%20String.cpp)|40 ms|
+|1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[C++](./solutions/1534.%20Count%20Good%20Triplets.cpp)|60 ms|
