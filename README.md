@@ -23,6 +23,7 @@
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|264 ms|
 |326|[ Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./solutions/326.%20Power%20of%20Three.cpp)|24 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|52 ms|
+|347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|28 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./solutions/412.%20Fizz%20Buzz.cpp)|8 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|80 ms|
 |728|[ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[C++](./solutions/728.%20Self%20Dividing%20Numbers.cpp)|4 ms|
