@@ -28,6 +28,7 @@
 |326|[ Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./solutions/326.%20Power%20of%20Three.cpp)|24 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|52 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|28 ms|
+|367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./solutions/367.%20Valid%20Perfect%20Square.cpp)|88 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./solutions/412.%20Fizz%20Buzz.cpp)|8 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./solutions/415.%20Add%20Strings.cpp)|8 ms|
 |492|[ Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[C++](./solutions/492.%20Construct%20the%20Rectangle.cpp)|380 ms|
