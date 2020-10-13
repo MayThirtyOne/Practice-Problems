@@ -47,6 +47,7 @@
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[C++](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)|12 ms|
 |1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[C++](./solutions/1323.%20Maximum%2069%20Number.cpp)|0 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
+|1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[C++](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|16 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.cpp)|24 ms|
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[C++](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.cpp)||
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[C++](./solutions/1395.%20Count%20Number%20of%20Teams.cpp)|172 ms|
