@@ -34,6 +34,7 @@
 |492|[ Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[C++](./solutions/492.%20Construct%20the%20Rectangle.cpp)|380 ms|
 |551|[ Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[C++](./solutions/551.%20Student%20Attendance%20Record%20I.cpp)|0 ms|
 |559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C++](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.cpp)|32 ms|
+|589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|36 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|80 ms|
 |728|[ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[C++](./solutions/728.%20Self%20Dividing%20Numbers.cpp)|4 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|4 ms|
