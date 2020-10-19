@@ -49,6 +49,7 @@
 |961|[ N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](./solutions/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.cpp)|116 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|120 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[C++](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.cpp)|0 ms|
+|1051|[ Height Checker](https://leetcode.com/problems/height-checker/)|[C++](./solutions/1051.%20Height%20Checker.cpp)|4 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python3](./solutions/1108.%20Defanging%20an%20IP%20Address.py)|36 ms|
 |1207|[ Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[C++](./solutions/1207.%20Unique%20Number%20of%20Occurrences.cpp)|4 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.cpp)|0 ms|
