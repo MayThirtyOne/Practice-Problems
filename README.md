@@ -14,6 +14,7 @@
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)|12 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[C++](./solutions/136.%20Single%20Number.cpp)|16 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./solutions/141.%20Linked%20List%20Cycle.cpp)|36 ms|
+|144|[ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](./solutions/144.%20Binary%20Tree%20Preorder%20Traversal.cpp)|0 ms|
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](./solutions/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)|4 ms|
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./solutions/171.%20Excel%20Sheet%20Column%20Number.cpp)|0 ms|
 |190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./solutions/190.%20Reverse%20Bits.cpp)|8 ms|
