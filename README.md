@@ -32,6 +32,7 @@
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./solutions/367.%20Valid%20Perfect%20Square.cpp)|88 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./solutions/412.%20Fizz%20Buzz.cpp)|8 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./solutions/415.%20Add%20Strings.cpp)|8 ms|
+|461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./solutions/461.%20Hamming%20Distance.cpp)|0 ms|
 |492|[ Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[C++](./solutions/492.%20Construct%20the%20Rectangle.cpp)|380 ms|
 |551|[ Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[C++](./solutions/551.%20Student%20Attendance%20Record%20I.cpp)|0 ms|
 |559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C++](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.cpp)|32 ms|
