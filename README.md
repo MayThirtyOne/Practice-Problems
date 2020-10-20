@@ -46,6 +46,7 @@
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|20 ms|
 |896|[ Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[C++](./solutions/896.%20Monotonic%20Array.cpp)|128 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[C++](./solutions/905.%20Sort%20Array%20By%20Parity.cpp)|8 ms|
+|922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[C++](./solutions/922.%20Sort%20Array%20By%20Parity%20II.cpp)|44 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|240 ms|
 |961|[ N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](./solutions/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.cpp)|116 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|120 ms|
