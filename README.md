@@ -44,6 +44,7 @@
 |728|[ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[C++](./solutions/728.%20Self%20Dividing%20Numbers.cpp)|4 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|4 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|20 ms|
+|876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./solutions/876.%20Middle%20of%20the%20Linked%20List.cpp)|0 ms|
 |896|[ Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[C++](./solutions/896.%20Monotonic%20Array.cpp)|128 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[C++](./solutions/905.%20Sort%20Array%20By%20Parity.cpp)|8 ms|
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[C++](./solutions/922.%20Sort%20Array%20By%20Parity%20II.cpp)|44 ms|
