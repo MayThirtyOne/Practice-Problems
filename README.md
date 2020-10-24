@@ -71,3 +71,4 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./solutions/1512.%20Number%20of%20Good%20Pairs.cpp)|4 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[C++](./solutions/1528.%20Shuffle%20String.cpp)|40 ms|
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[C++](./solutions/1534.%20Count%20Good%20Triplets.cpp)|60 ms|
+|1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[C++](./solutions/1550.%20Three%20Consecutive%20Odds.cpp)|8 ms|
